@@ -10,7 +10,7 @@ Desenvolvi um aplicativo desktop utilizando Tkinter e Pytube, projetado para bai
 
 ### Adicionando o link:
 
-<img src="gifs/GIfAddLink.gif" alt="GifAddLink" width="700" height="400">
+<img src="gifs/GIfAddLink.gif" alt="GifAddLink" width="600" height="400">
 
 ### Adicionando o diretório:
 
