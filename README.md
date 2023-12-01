@@ -9,7 +9,7 @@ Desenvolvi um aplicativo desktop projetado para baixar vídeos do YouTube, desti
 
 #### Adicionando o link:
 
-![GifAddLink](gifs/GifAddLink.gif)
+![GifAddLink](gifs/GIfAddLink.gif)
 
 #### Adicionando o diretório:
 
@@ -17,7 +17,7 @@ Desenvolvi um aplicativo desktop projetado para baixar vídeos do YouTube, desti
 
 #### Selecionando a qualidade de vídeo:
 
-![GifSelectResolution](gifs/GifSelectResolution.gif)
+![GifSelectResolution](gifs/GifSelectionResolution.gif)
 
 #### Download do vídeo:
 
