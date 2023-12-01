@@ -9,16 +9,16 @@ Desenvolvi um aplicativo desktop projetado para baixar vídeos do YouTube, desti
 
 #### Adicionando o link:
 
-![GifAddLink](gifs/GIfAddLink.gif)
+<img src="gifs/GIfAddLink.gif" alt="GifAddLink" width="600" height="400">
 
 #### Adicionando o diretório:
 
-![GifAddDir](gifs/GifAddDir.gif)
+<img src="gifs/GifAddDir.gif" alt="GifAddDir" width="600" height="400">
 
 #### Selecionando a qualidade de vídeo:
 
-![GifSelectResolution](gifs/GifSelectionResolution.gif)
+<img src="gifs/GifSelectionResolution.gif" alt="GifSelectResolution" width="600" height="400">
 
 #### Download do vídeo:
 
-![GifDownlaod](gifs/GifDownload.gif)
+<img src="gifs/GifDownload.gif" alt="GifDownload" width="600" height="400">
